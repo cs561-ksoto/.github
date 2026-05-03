@@ -7,8 +7,10 @@ assignees: ''
 ---
 
 # User Story
+[Description of the user story here]
 
 # Summary
+[Summary of what the user story should include]
 
 # Acceptance Criteria
 - [ ] 
