@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Standard template for user story issues
+title: 'User Story: '
+labels: enhancement
+assignees: ''
+---
+
 # Description
 [Summary of the changes and the related issue. Include relevant motivation and context.]
 
